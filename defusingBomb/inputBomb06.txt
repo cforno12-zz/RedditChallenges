@@ -1,6 +1,0 @@
-red
-red
-white
-orange
-black
-green

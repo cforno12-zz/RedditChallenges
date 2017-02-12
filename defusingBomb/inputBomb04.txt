@@ -1,7 +1,0 @@
-white
-black
-black
-black
-black
-green
-orange
